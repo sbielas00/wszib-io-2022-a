@@ -40,8 +40,5 @@ class Trojkaty {
                 
                 jakiTrojkat(a, b, c);
 
-
-
-        jakiTrojkat(a, b, c);
     }
 }
